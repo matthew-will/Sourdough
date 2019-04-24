@@ -1,5 +1,4 @@
 # Sourdough
-My process for creating sourdough
+My process for creating sourdough. Grab a fork and let's go!
 
-Hello all,
-This is to document my process, trials, and failures of creating a good sourdough loaf
+
