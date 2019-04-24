@@ -8,4 +8,4 @@ My process for creating sourdough. Grab a fork and let's go!
  * 200 grams of water (85)
 
 # Process Checklist
-[] Make Levan
+[ ] Make Levan
