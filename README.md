@@ -18,3 +18,5 @@ Once your starter has begun to fall back, in a mason jar combine:
  * 200 grams of water (85)
 ```
 
+# Autolyse - know how to use it
+An autolyse rest is where you combine water and flour and let it sit for anywhere from 20 minutes to 8 hours. The autolyse rest does a couple of really cool things. 
