@@ -17,6 +17,20 @@ Once your starter has begun to fall back, in a mason jar combine:
  * 200 grams of 50/50 (whole wheat/bread flour) blend
  * 200 grams of water (85)
 ```
+Mix to combine, cover with a towel, and place in your oven (off) with the oven light on. As an extra saftey procaution against others accidently turning on the oven and killing your precious yeast, lock your oven. Depending on your oven, but this will fire a warning before allowing someone to turn on the oven. 
 
 # Autolyse - know how to use it
-An autolyse rest is where you combine water and flour and let it sit for anywhere from 20 minutes to 8 hours. The autolyse rest does a couple of really cool things. 
+An autolyse rest is where you combine water and flour and let it sit for anywhere from 20 minutes to 8 hours. The autolyse rest does a couple of really cool things, first, it allows the flour to fully hydrate. Second it kicks off two important enzymes - protease and amalyse. 
+
+Protease helps to make your dough more `extensible` by gently breaking down some of the gluten that's forming as the dough hydrates while resting. This weakens the dough's elasticity, thereby increasing its extensibility. The longer the autolyse the more protease has an affect on the dough. 
+
+Amylase turns starch into glucose. Freeing sugar from starch allows for increased fermentation, better browning during the bake, and greater residual sugar in the finished loaf.
+
+Once you notice your levan is starting to double in size, start making the dough. In a large bowl combine:
+```
+* 900 grams of bread flour
+* 100 grams of whole wheat flour
+* 700 grams of water (85°)
+```
+Mix until you don't see any dry flour bits. Cover with a towel, and place in your oven with the oven light on for 2 hours.
+
