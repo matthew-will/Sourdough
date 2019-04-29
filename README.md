@@ -56,3 +56,6 @@ Salt in dough not only makes the bread taste better, but also (similar to acid f
 
 Once the dough has been mixed thouroughly, cover and place in your oven with the oven light on and rest for 30 minutes. 
 
+# Stretch and Folds
+Every 30 minutes for the initial 2 hours of bulk fermentation, we wil perform a series of stretch and folds. Grab the dough from the bottom and pull upwards, stretching the dough until it resists. Fold it back over itself. Usually do 8-10 stretch and folds in the beginning fermentation. In the later stages, when there is more gas present in the dough, we want to be a little more careful with our folds, to not degass.
+
